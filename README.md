@@ -4,4 +4,4 @@ All training content and tutorials for the Dynatrace APAC Services team will be 
 
 ### Tutorials
 
--[Monitoring as Code](mac)
+- [Monitoring as Code](mac/)
